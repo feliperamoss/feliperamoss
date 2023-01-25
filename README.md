@@ -1,9 +1,10 @@
 <div align="center">
  
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm felipe</h1>
-  <h4 align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=0B8C5D&background=5BF29600&multiline=true&width=435&lines=a+full-stack+trainee+at+oddity" alt="Typing SVG" /></a>
-  </h4>
+
+ <h4 align="center">
+ <a href="https://git.io/typing-svg"><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&pause=1000&color=0B8C5D&background=5BF29600&multiline=true&width=435&lines=a+full-stack+trainee+at+oddity" alt="Typing SVG" /></a>
+ </h4>
   
 
 </div>
