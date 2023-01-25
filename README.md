@@ -5,6 +5,8 @@
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=099F50&multiline=true&width=435&lines=a+trainee+at+oddity+code+in+germany" />
   </a>
   </h4>
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 </div>
 
 <div align="center">
