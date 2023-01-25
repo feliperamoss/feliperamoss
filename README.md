@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://i.imgur.com/dTYwdG1.gif" alt="Welcome!" width="300"/>
+ 
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm felipe</h1>
   <h4 align="center">
     <a>
