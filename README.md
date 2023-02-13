@@ -41,7 +41,7 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)">
- <img src="https://img.shields.io/badge/Tailwind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)">
+ <img src="https://img.shields.io/badge/Tailwindcss-20232A?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB)">
 </span>
 
 <h4> Databases </h4>
