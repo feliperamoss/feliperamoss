@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)">
  <img src="https://img.shields.io/badge/Tailwindcss-E5E4E2?style=for-the-badge&logo=tailwindcss&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/Three.Js-black?style=for-the-badge&logo=three.js&logoColor=white">
 </span>
 
 <h4> Databases </h4>
@@ -52,13 +53,19 @@
 
 <h4> Operating System </h4>
 <span>
+ <img src="https://img.shields.io/badge/MACOS-silver?style=for-the-badge&logo=macos&logoColor=white">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+ <img src="https://img.shields.io/badge/DEBIAN-F05032?style=for-the-badge&logo=debian&logoColor=white">
 </span>
 
 <h4> Other Tools and Technologies </h4>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+ <img src="https://img.shields.io/badge/Gitlab-F05032?style=for-the-badge&logo=gitlab&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
+  <img src="https://img.shields.io/badge/PHPSTORM-purple?style=for-the-badge&logo=phpstorm&logoColor=white">
+  <img src="https://img.shields.io/badge/VSCODE-0078D6?style=for-the-badge&logo=visualstudio&logoColor=white">
+  <img src="https://img.shields.io/badge/VISUALSTUDIO-BF40BF?style=for-the-badge&logo=visualstudio&logoColor=white">
 </span>
