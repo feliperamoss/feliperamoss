@@ -13,13 +13,6 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{feliperamoss}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
-<h4 align="center">
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=feliperamoss&langs_count=10&theme=radical&layout=demo" />
-</a>
-
-</h4>
-
 <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
